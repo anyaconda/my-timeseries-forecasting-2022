@@ -1,11 +1,14 @@
 
 # my Machine Learning for Time Series Forecasting with Python
+6/9/2022
 
 book: Machine Learning for Time Series Forecasting with Python  
 author: Francesca Lazzeri, PhD.  
 forked from FrancescaLazzeri https://github.com/FrancescaLazzeri/Machine-Learning-for-Time-Series-Forecasting  
 
-my work through code is marked with `$my`
+##### myBits
+- my work through code is marked with `$my`. 
+- my worked-through files are marked with `my#_FileName`
 
 
 # Machine Learning for Time Series Forecasting with Python
