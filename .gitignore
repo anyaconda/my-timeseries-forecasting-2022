@@ -1,0 +1,17 @@
+*.log
+*.pkl
+config.json
+
+
+.ipynb_checkpoints
+.azureml
+__pycache__
+.vscode
+
+# my config
+*draft*
+#data/*
+.DS_Store
+#Notebooks/data/*
+myData/*
+Notebooks/myData/*
