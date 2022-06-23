@@ -1,0 +1,11 @@
+name: azureml-timeseriesbook
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - pip
+  - pandas=1.1.1
+  - matplotlib=3.1.1
+  - ipykernel
+  - nb_conda_kernels
+prefix: /anaconda/envs/azureml-timeseriesbook
